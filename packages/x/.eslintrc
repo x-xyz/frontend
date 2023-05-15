@@ -1,0 +1,7 @@
+{
+  "extends": ["../../.eslintrc"],
+  "rules": {
+    // since react 17, it is not necessary.
+    "react/react-in-jsx-scope": "off"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "@x/x",
+  "version": "0.0.7",
+  "scripts": {
+    "dev": "next",
+    "prebuild": "cd ../.. && node scripts/build-deps",
+    "build": "next build",
+    "start": "next start"
+  }
+}

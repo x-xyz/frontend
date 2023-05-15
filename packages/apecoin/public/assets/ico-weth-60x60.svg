@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
+<style type="text/css">
+	.st4{fill:#1D1D1D;}
+	.st9{fill:#D99EBB;}
+	.st10{fill:#CB79A1;}
+	.st11{fill:#C05C8C;}
+</style>
+<g id="ico-weth-60x60">
+	<g>
+		<circle class="st4" cx="30" cy="30" r="28"/>
+	</g>
+	<g>
+		<polygon class="st9" points="30,39.98 30,50 42.29,32.73 		"/>
+		<polygon class="st10" points="30,24.81 30,37.67 42.29,30.4 		"/>
+		<polygon class="st9" points="30,10 30,24.81 42.29,30.4 		"/>
+		<polygon class="st10" points="30,39.98 30,50 17.71,32.73 		"/>
+		<polygon class="st11" points="30,24.81 30,37.67 17.71,30.4 		"/>
+		<polygon class="st10" points="30,10 30,24.81 17.71,30.4 		"/>
+	</g>
+</g>
+</svg>

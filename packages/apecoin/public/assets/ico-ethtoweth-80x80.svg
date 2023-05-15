@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<style type="text/css">
+	.st5{fill:#4C4C4C;}
+	.st14{fill:#52D9F6;}
+	.st25{fill:none;stroke:#52D9F6;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<g id="ico-convert-56x56">
+	<g>
+		<line class="st25" x1="31.11" y1="56.22" x2="31.11" y2="29.05"/>
+		<polygon class="st14" points="31.11,23.78 22.11,34.92 40.11,34.92 		"/>
+	</g>
+	<line class="st25" x1="48.89" y1="23.78" x2="48.89" y2="50.95"/>
+	<polygon class="st14" points="48.89,56.22 57.89,45.08 39.89,45.08 	"/>
+</g>
+<g id="ico-ethtoweth-80x80">
+	<g>
+		<path class="st5" d="M40,4c19.85,0,36,16.15,36,36S59.85,76,40,76S4,59.85,4,40S20.15,4,40,4 M40,0C17.91,0,0,17.91,0,40
+			s17.91,40,40,40s40-17.91,40-40S62.09,0,40,0L40,0z"/>
+	</g>
+</g>
+</svg>

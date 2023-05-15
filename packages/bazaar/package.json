@@ -1,0 +1,10 @@
+{
+  "name": "@x/bazaar",
+  "version": "0.0.2",
+  "scripts": {
+    "dev": "next",
+    "prebuild": "cd ../.. && node scripts/build-deps",
+    "build": "next build",
+    "start": "next start"
+  }
+}

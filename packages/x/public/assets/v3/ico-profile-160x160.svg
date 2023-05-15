@@ -1,0 +1,26 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 160 160" style="enable-background:new 0 0 160 160;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#52D9F6;}
+	.st1{fill:#4C4C4C;}
+	.st2{fill:#1D1D1D;}
+</style>
+<g id="ico-profile-160x160">
+	<g>
+		<g>
+			<circle class="st0" cx="80" cy="80" r="76"/>
+			<g>
+				<path class="st1" d="M80,8c39.7,0,72,32.3,72,72s-32.3,72-72,72S8,119.7,8,80S40.3,8,80,8 M80,0C35.82,0,0,35.82,0,80
+					s35.82,80,80,80c44.18,0,80-35.82,80-80S124.18,0,80,0L80,0z"/>
+			</g>
+		</g>
+		<g>
+			<circle class="st2" cx="80" cy="67.52" r="24"/>
+		</g>
+		<g>
+			<path class="st2" d="M88,101.07H72c-17.67,0-32,14.33-32,32v0.34c11.15,8.36,24.99,13.32,40,13.32s28.85-4.95,40-13.32v-0.34
+				C120,115.4,105.67,101.07,88,101.07z"/>
+		</g>
+	</g>
+</g>
+</svg>

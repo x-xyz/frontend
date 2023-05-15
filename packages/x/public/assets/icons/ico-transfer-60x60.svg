@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60" xml:space="preserve">
+  <style>
+    .st0{fill:#52d9f6}.st5{fill:none;stroke:#52d9f6;stroke-width:4;stroke-miterlimit:10}
+  </style>
+  <g id="ico-transfer-60x60">
+    <circle cx="30" cy="30" r="28" style="fill:#1d1d1d"/>
+    <path d="M30 4c14.34 0 26 11.66 26 26S44.34 56 30 56 4 44.34 4 30 15.66 4 30 4m0-4C13.43 0 0 13.43 0 30s13.43 30 30 30 30-13.43 30-30S46.57 0 30 0z" style="fill:#4c4c4c"/>
+    <g>
+      <path class="st5" d="M13.78 21.11h27.17"/>
+      <path class="st0" d="m46.22 21.11-11.14-9v18z"/>
+      <path class="st5" d="M46.22 38.89H19.05"/>
+      <path class="st0" d="m13.78 38.89 11.14 9v-18z"/>
+    </g>
+  </g>
+</svg>

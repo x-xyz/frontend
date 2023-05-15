@@ -1,0 +1,11 @@
+{
+  "name": "@x/abis",
+  "version": "0.0.0",
+  "type": "module",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.js",
+  "scripts": {
+    "prebuild": "typechain --target ethers-v5 --out-dir ./dist './!(package|tsconfig).json'",
+    "build": "tsc"
+  }
+}

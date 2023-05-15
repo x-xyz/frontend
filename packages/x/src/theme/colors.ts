@@ -1,0 +1,23 @@
+export default {
+  background: '#06071F',
+  primary: 'white',
+  text: 'white',
+  inactive: '#A2A6B8',
+  placeholder: 'rgba(255, 255, 255, 0.28)',
+  danger: '#dc5656',
+  divider: '#4F525E',
+  panel: '#454658',
+  field: '#383848',
+  brand: {
+    50: '#edf1fc',
+    100: '#d3d4e1',
+    200: '#b6b7c8',
+    300: '#999bb1',
+    400: '#7c7e9a',
+    500: '#636581',
+    600: '#4d4e65',
+    700: '#373849',
+    800: '#21222e',
+    900: '#0a0a16',
+  },
+}

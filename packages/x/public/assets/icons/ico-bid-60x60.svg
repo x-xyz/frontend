@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60" xml:space="preserve">
+  <style>
+    .st0{fill:#52d9f6}
+  </style>
+  <g id="ico-bid-60x60">
+    <circle cx="30" cy="30" r="28" style="fill:#1d1d1d"/>
+    <path d="M30 4c14.34 0 26 11.66 26 26S44.34 56 30 56 4 44.34 4 30 15.66 4 30 4m0-4C13.43 0 0 13.43 0 30s13.43 30 30 30 30-13.43 30-30S46.57 0 30 0z" style="fill:#4c4c4c"/>
+    <g>
+      <path class="st0" d="M30 35c-.68 0-1.35-.07-2-.17V46c0 1.1.9 2 2 2s2-.9 2-2V34.83c-.65.1-1.32.17-2 .17z"/>
+      <circle class="st0" cx="30" cy="22" r="10"/>
+      <path style="fill:none;stroke:#1d1d1d;stroke-width:2.7081;stroke-miterlimit:10" d="m25 22.04 4.04 3.76L35 18.2"/>
+    </g>
+  </g>
+</svg>
